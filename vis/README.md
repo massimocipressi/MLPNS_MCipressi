@@ -1,1 +1,2 @@
-prova
+Il seguente grafico è stato fatto da me, usando Matlab, per il corso di Modellazione e simulazione numerica. Mostra l'andamento del valore del numero di riproduzione R(t) durante l'epidemia di COVID 19 in Italia. Sono rappresentati i dati comunicati ufficialmente, a confronto con quelli calcolati da me utilizzando un semplice modello SIR a cui sono stati forniti i dati sui positivi di gionro in giorno. Il risultato dipende dai parametri del modello, in particolare, è nota un'incertezza sul valore del tempo di riproduzione, che porta ad un'incertezza sul calcolo di R(t).
+![image](https://github.com/massimocipressi/MLPNS_MCipressi/blob/main/vis/R_easy.jpg)
