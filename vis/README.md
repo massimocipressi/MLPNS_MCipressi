@@ -7,4 +7,4 @@ Sono state poi ingrandite le scritte e cambiati i limiti degli assi. Nel primo g
 
 ![image](https://github.com/massimocipressi/MLPNS_MCipressi/blob/main/vis/vis.png)
 
-Nota: il dato ufficiale veniva calcolato con una simulazione Monte Carlo che usa Metropolis e avevo effettuato anche questo calcolo per quell'esame, trovando risultati migliori.
+Nota: il dato ufficiale veniva calcolato con una simulazione Monte Carlo che usa Metropolis con i dati dei sintomatici e avevo effettuato anche questo calcolo per quell'esame, trovando risultati migliori.
